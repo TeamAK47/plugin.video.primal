@@ -6,7 +6,6 @@ primal is a fork of Exodus. It has the same basic look and feel as the original 
 - Nixgates
 - I-A-C
 - WilsonMagic
-- 13Clowns
 - Eggman
 - Jor-El
 - Maud'Dib
