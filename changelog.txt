@@ -1,4 +1,6 @@
 Primal Changelog:
+2.2.2
+- fixed trakt api error
 2.0.3a
 - minor cleanup
 2.0.3
